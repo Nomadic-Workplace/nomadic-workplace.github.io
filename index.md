@@ -4,5 +4,5 @@ title: My Web Online
 --- 
 {% include_relative header.md %}
 
-# abc test
+# Content of index.md
 ![kitty](img/kitty.jpg)
