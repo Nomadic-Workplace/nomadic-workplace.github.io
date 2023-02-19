@@ -3,12 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Nomadic Workplace LLC
+title: 
 permalink: /nomadic/
 ---
-
-# Empowering Early-Stage Companies to Succeed in a Remote World with Nomadic Workplace
-
 
 Welcome to Nomadic Workplace, your partner in driving success for early-stage companies. We specialize in the essential building blocks of successful software engineering, including monitoring, scaling, CI/CD, deployment strategies, release engineering, and quality control. Our team of experts works closely with you to develop a comprehensive strategy that meets your specific needs, ensuring that your product is ready for growth from day one.
 
