@@ -1,3 +1,20 @@
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: jekyll-theme-simplex
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+logo_img: img/kitty.jpg #Absolute path to the logo. If not specified, the title will be displayed instead.
+copyright: © blabla 2023 #Your copyright.
+
+collections:
+    category:
+        output: true
+    authors:
+        output: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
